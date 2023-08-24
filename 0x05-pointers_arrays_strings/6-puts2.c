@@ -1,9 +1,11 @@
 #include "main.h"
 /**
- * puts2 - This function prints every other character from the input string,
- * starting with the first character.
+ * puts2 - Print every character from input stringstarting with first character
  *
- * @str: The input string.
+ * This function takes pointer to null-terminated string print every character
+ * starting with the first character of string.skips characters at odd indices.
+ *
+ * @str: Pointer to the input string.
  */
 void puts2(char *str)
 {
