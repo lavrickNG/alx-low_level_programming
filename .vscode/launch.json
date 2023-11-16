@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lavrickngalamu/alx-low_level_programming/0x0C-more_malloc_free",
-      "program": "/Users/lavrickngalamu/alx-low_level_programming/0x0C-more_malloc_free/build/Debug/outDebug"
+      "cwd": "/Users/lavrickngalamu/alx-low_level_programming/0x10-variadic_functions",
+      "program": "/Users/lavrickngalamu/alx-low_level_programming/0x10-variadic_functions/build/Debug/outDebug"
     }
   ]
 }
